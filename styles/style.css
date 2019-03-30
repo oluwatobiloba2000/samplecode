@@ -1,0 +1,25 @@
+body{
+  background: #ffe;
+  font-family: 'Indie Flower', cursive;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+img {
+  width: 150px;
+}
+ul.navigation_list {
+  display:inline;
+  
+}
+ul>li {
+  display: inline;
+  list-style-type: none;
+  /* border: 1px black solid; */
+  padding: 10px
+  
+}
+
